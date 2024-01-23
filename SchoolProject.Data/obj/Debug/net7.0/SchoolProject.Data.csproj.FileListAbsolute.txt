@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Data\bin\Debug\net7.0\SchoolProject.Data.deps.json
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Data\bin\Debug\net7.0\SchoolProject.Data.dll
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Data\bin\Debug\net7.0\SchoolProject.Data.pdb
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Data\obj\Debug\net7.0\SchoolProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Data\obj\Debug\net7.0\SchoolProject.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Data\obj\Debug\net7.0\SchoolProject.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Data\obj\Debug\net7.0\SchoolProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Data\obj\Debug\net7.0\SchoolProject.Data.dll
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Data\obj\Debug\net7.0\refint\SchoolProject.Data.dll
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Data\obj\Debug\net7.0\SchoolProject.Data.pdb
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Data\obj\Debug\net7.0\ref\SchoolProject.Data.dll
