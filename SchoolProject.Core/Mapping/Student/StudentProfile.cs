@@ -9,7 +9,9 @@ namespace SchoolProject.Core.Mapping.Student
 
         public StudentProfile()
         {
-            GetStudentListMapping();   
+            GetStudentListMapping(); 
+            GetStudentByIdMapping();   
+            AddStudentCommandMapper();  
         }
 
 

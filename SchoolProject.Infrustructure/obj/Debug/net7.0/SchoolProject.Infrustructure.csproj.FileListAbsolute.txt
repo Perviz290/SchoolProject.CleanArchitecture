@@ -15,3 +15,4 @@ C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Infrustructur
 C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Infrustructure\obj\Debug\net7.0\SchoolProject.Infrustructure.pdb
 C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Infrustructure\obj\Debug\net7.0\SchoolProject.Infrustructure.genruntimeconfig.cache
 C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Infrustructure\obj\Debug\net7.0\ref\SchoolProject.Infrustructure.dll
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Infrustructure\obj\Debug\net7.0\SchoolProject.Infrustructure.sourcelink.json

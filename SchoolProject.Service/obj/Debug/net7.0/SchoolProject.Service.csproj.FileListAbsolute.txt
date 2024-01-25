@@ -15,3 +15,4 @@ C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Service\bin\D
 C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Service\bin\Debug\net7.0\SchoolProject.Infrustructure.pdb
 C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Service\obj\Debug\net7.0\SchoolProject.Service.csproj.AssemblyReference.cache
 C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Service\obj\Debug\net7.0\SchoolProject.Service.csproj.CopyComplete
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Service\obj\Debug\net7.0\SchoolProject.Service.sourcelink.json

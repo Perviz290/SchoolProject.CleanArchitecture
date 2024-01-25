@@ -87,3 +87,6 @@ C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Api\bin\Debug
 C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Api\bin\Debug\net7.0\SchoolProject.Service.pdb
 C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Api\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Api\obj\Debug\net7.0\SchoolProject.Api.sourcelink.json
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll

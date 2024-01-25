@@ -2,21 +2,22 @@
 using SchoolProject.Data.Entities;
 using SchoolProject.Infrustructure.Abstracts;
 using SchoolProject.Infrustructure.Data;
+using SchoolProject.Infrustructure.InfrustructureBases;
 
 namespace SchoolProject.Infrustructure.Repositories;
 
-public class StudentRepository : IStudentRepository
+public class StudentRepository : GenericRepository<Student>,IStudentRepository
 {
-    private readonly ApplicationDbContext _dbContext;
+    private readonly DbSet<Student> _students;   
 
-    public StudentRepository(ApplicationDbContext dbContext)
+    public StudentRepository(ApplicationDbContext dbContext):base(dbContext)
     {
-        _dbContext = dbContext;
+        _students=dbContext.Set<Student>(); 
     }
 
     public async Task<List<Student>> GetStudentsListAsync()
     {
-        return await _dbContext.students.Include(x=>x.Department).ToListAsync(); 
+        return await _students.Include(x=>x.Department).ToListAsync(); 
     }
 
 

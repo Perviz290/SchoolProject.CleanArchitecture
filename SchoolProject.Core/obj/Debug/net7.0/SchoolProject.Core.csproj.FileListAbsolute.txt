@@ -17,3 +17,4 @@ C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Core\bin\Debu
 C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Core\bin\Debug\net7.0\SchoolProject.Infrustructure.pdb
 C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Core\obj\Debug\net7.0\SchoolProject.Core.csproj.AssemblyReference.cache
 C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Core\obj\Debug\net7.0\SchoolProject.Core.csproj.CopyComplete
+C:\Users\user\Desktop\SchoolProjectCleanArchitecture\SchoolProject.Core\obj\Debug\net7.0\SchoolProject.Core.sourcelink.json
